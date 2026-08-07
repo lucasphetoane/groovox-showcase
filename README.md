@@ -72,7 +72,7 @@ Artists can upload their music for free, while listeners can discover, stream, a
   <img src="screenshots/Settings.jpg" width="220"/>
   <img src="screenshots/NewPassword.jpg" width="220"/>
   <img src="screenshots/Login.jpg" width="220"/>
-  <img src="screenshots/CreateAcc.jpg" width="220"/>
+  <img src="screenshots/Createacc.jpg" width="220"/>
   <img src="screenshots/ResetPassword.jpg" width="220"/>
 </p>
 
