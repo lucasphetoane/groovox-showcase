@@ -22,6 +22,60 @@ Artists can upload their music for free, while listeners can discover, stream, a
 
 ---
 
+## 📸 App Screenshots
+
+### 🏠 Home
+
+<p align="center">
+  <img src="screenshots/Home1.jpg" width="220"/>
+  <img src="screenshots/Home2.jpg" width="220"/>
+  <img src="screenshots/Home3.jpg" width="220"/>
+  <img src="screenshots/Home4.jpg" width="220"/>
+</p>
+
+### ❤️ Favorites
+
+<p align="center">
+  <img src="screenshots/Favorites1.jpg" width="220"/>
+  <img src="screenshots/Favorites2.jpg" width="220"/>
+  <img src="screenshots/Favorites3.jpg" width="220"/>
+  <img src="screenshots/Favorites4.jpg" width="220"/>
+</p>
+
+### ⬆️ Create
+
+<p align="center">
+  <img src="screenshots/Create1.jpg" width="220"/>
+  <img src="screenshots/Create2.jpg" width="220"/>
+  <img src="screenshots/Create3.jpg" width="220"/>
+  <img src="screenshots/Create4.jpg" width="220"/>
+</p>
+
+### 🎵 Music Player
+
+<p align="center">
+  <img src="screenshots/Player.jpg" width="220"/>
+</p>
+
+### 👤 Profile
+
+<p align="center">
+  <img src="screenshots/Profile1.jpg" width="220"/>
+  <img src="screenshots/Profile2.jpg" width="220"/>
+  <img src="screenshots/Profile3.jpg" width="220"/>
+  <img src="screenshots/Profile4.jpg" width="220"/>
+</p>
+
+### ⚙️ Settings & Authentication
+
+<p align="center">
+  <img src="screenshots/Settings.jpg" width="220"/>
+  <img src="screenshots/NewPassword.jpg" width="220"/>
+  <img src="screenshots/Login.jpg" width="220"/>
+  <img src="screenshots/CreateAcc.jpg" width="220"/>
+  <img src="screenshots/ResetPassword.jpg" width="220"/>
+</p>
+
 ## 🛠 Tech Stack
 
 - React Native
