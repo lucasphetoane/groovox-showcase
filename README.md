@@ -21,6 +21,12 @@ Artists can upload their music for free, while listeners can discover, stream, a
 - 📱 Responsive mobile interface
 
 ---
+## 🎥 Demo Video
+
+Watch the GroovoX app demonstration:
+
+[▶️ Watch GroovoX Demo]
+(https://drive.google.com/file/d/1AossUKUAnsSsrOEkSpJF18XooIdm5sQl/view?usp=drivesdk)
 
 ## 📸 App Screenshots
 
